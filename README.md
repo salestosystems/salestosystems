@@ -1,16 +1,113 @@
-## Hi there 👋
+# Hi, I'm Hardeep 👋
 
-<!--
-**salestosystems/salestosystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I help businesses build scalable revenue systems by combining Enterprise B2B Sales, Revenue Operations, AI Automation, and GTM workflows.
 
-Here are some ideas to get you started:
+Currently building production-grade RevOps automation projects using Make.com, HubSpot, Apollo, OpenAI, Supabase, and modern AI tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Long-term vision:
+Building Pipeline Brain — an AI-powered Revenue Operating System.
+
+...
+## Skills
+
+Revenue Operations
+
+Enterprise Sales
+
+HubSpot CRM
+
+Make.com
+
+Apollo
+
+AI Automation
+
+Workflow Design
+
+Sales Operations
+
+GTM Strategy
+
+Lead Scoring
+
+CRM Architecture
+
+Business Process Automation
+......
+
+## Current Focus
+Revenue Operations
+
+AI Automation
+
+Make.com
+
+HubSpot CRM
+
+Apollo.io
+
+OpenAI
+
+Supabase
+
+GTM Systems
+
+Pipeline Brain
+...
+
+## Tech Stack
+CRM
+HubSpot
+Odoo
+Zoho
+
+Automation
+Make.com
+
+AI
+OpenAI
+Gemini
+
+Data
+Google Sheets
+Supabase
+
+Sales
+Apollo
+LinkedIn Sales Navigator
+...
+
+## Current Projects
+✓ Lead Qualification Engine
+
+✓ OmniEngine
+
+□ Revenue Leakage Detector
+
+□ Territory Routing Engine
+
+□ Revenue Forecasting Engine
+
+□ Customer Health Engine
+
+□ Executive Revenue Intelligence
+
+□ Pipeline Brain
+...
+
+## Featured Repositories
+01-lead-qualification-engine
+
+02-omniengine
+
+03-revenue-leakage-detector
+
+04-territory-routing-engine
+
+05-revenue-forecasting
+
+06-customer-health-engine
+
+07-executive-revenue-intelligence
+
